@@ -1,2 +1,2 @@
 # autoexpress-tumblr
-Arquivos do site para tumblr
+Arquivos do site com css incluso para tumblr
